@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-ruby "2.6.6-p146"
+ruby "2.6.6p146"
 
 gem "activesupport"
 gem "dotenv"
